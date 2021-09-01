@@ -1,4 +1,4 @@
-# Business-Continuitity-Plan-
+# Business-Continuity-Plan
 A project for Incident Response &amp; Disaster Recovery from CSIA 260
 
 Business Continuity Final Project 
